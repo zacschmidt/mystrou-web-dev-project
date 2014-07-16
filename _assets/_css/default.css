@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	font: 20px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	text-align:center;
+	color:#333333;
+	-webkit-font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+	-ms-font-smoothing: antialiased;
+	-o-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+}
+
+h1 {
+	font-size: 35px;
+	font-weight: bold;
+	text-align: center;
+	color: rgba(255, 255, 255, .3);
+	text-shadow: -1px -1px rgba(0, 0, 0, 1);
+	-webkit-text-rendering: optimizeLegibility;
+	-moz-text-rendering: optimizeLegibility;
+	-ms-text-rendering: optimizeLegibility;
+	-o-text-rendering: optimizeLegibility;
+	text-rendering: optimizeLegibility;
+}
+
+h2 {
+	font-size: 26px;
+	font-weight: bold;
+	text-align: center;
+	color: rgba(255, 255, 255, 0.3);
+	text-shadow: -1px -1px rgba(0, 0, 0, .5);
+	-webkit-text-rendering: optimizeLegibility;
+	-moz-text-rendering: optimizeLegibility;
+	-ms-text-rendering: optimizeLegibility;
+	-o-text-rendering: optimizeLegibility;
+	text-rendering: optimizeLegibility;
+}
+
+footer {
+	font:12px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	text-align:center;
+	color:#333333;
+	-webkit-font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+	-ms-font-smoothing: antialiased;
+	-o-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+}
